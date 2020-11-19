@@ -11,3 +11,5 @@ Just a simple VueJS project made while learning VueJS Crash Course from FreeCode
 
 ***Note: Node and VueJS must be installed.***
 
+![Screenshot](Screenshot.jpg)
+
